@@ -1,0 +1,41 @@
+div {
+    border: 1px solid black; 
+    color:navy;
+}
+
+img {
+    width: 300px;  
+    border: groove black 5px;
+    height:300px;
+}
+
+body {
+    background: yellow;
+}
+
+.about {
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic {
+   display:flex;
+    justify-content: space-around;
+    border: 5px ridge navy;
+}
+
+.person {
+    display: flex ;
+    justify-content:center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
